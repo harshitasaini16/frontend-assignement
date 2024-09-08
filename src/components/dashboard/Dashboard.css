@@ -1,0 +1,153 @@
+.container {
+    max-width: 600px;
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin: auto;
+}
+
+.header-title {
+    font-size: 28px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    margin-top: 25px;
+}
+
+.header-subtitle {
+    font-size: 16px;
+    color: #a9a9a9;
+    margin-bottom: 32px;
+}
+
+.create-post-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #ffffff;
+    margin-top: 0px;
+    font-weight: 500;
+}
+
+.create-post-content p {
+    margin: 0;
+    color: #a9a9a9;
+    font-size: 14px;
+
+}
+
+.post-container {
+    background-color: #27292d;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: 2px solid #393a3c;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.user-avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.user-details {
+    flex-grow: 1;
+    margin-left: 10px;
+}
+
+.user-name {
+    font-size: 16px;
+    margin: 0;
+    color: #ffffff;
+    font-weight: 500;
+}
+
+.post-time {
+    margin: 0;
+    font-size: 12px;
+    color: #a9a9a9;
+}
+
+.create-emoji {
+    background-color: #27292D;
+    width: 48px;
+    height: 48px;
+    padding: 0;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.post-content {
+    margin-top: 16px;
+    background-color: #191920;
+    padding: 10px 15px;
+    border-radius: 8px;
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 1.5;
+    display: flex;
+    align-items: center;
+}
+
+.post-content span {
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.comments-section {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #a9a9a9;
+    margin-top: 10px;
+}
+
+.comments-icon {
+    width: 16px;
+    height: 16px;
+    margin-right: 5px;
+}
+
+.comment-count {
+    margin: 0;
+}
+
+.post-button {
+    background-color: #4A96FF;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    width: 100px;
+    margin-left: 450px;
+    margin-top: 11px;
+}
+
+.post-content-text {
+    color: #7F8084;
+}
+
+.post-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.popupvisible {
+    opacity: 10%;
+    pointer-events: none;
+}
+
+.emoji-wrapper {
+    width: 80px;
+    margin-bottom: 15px;
+}
