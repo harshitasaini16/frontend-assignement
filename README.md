@@ -13,7 +13,7 @@ This is a React-based frontend assignment showcasing a simple dashboard for crea
 - CSS
 
 ## Live Demo
-[Live Deployment Link](https://main--auth-assignemnt.netlify.app/)
+[Live Deployment Link](https://66dd31ff961e63879a0dc21e--auth-post-flow.netlify.app/)
 
 ## Running Locally
 
